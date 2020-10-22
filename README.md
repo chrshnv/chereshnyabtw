@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">✨ Welcome to my awesome nothing ✨</h1>
+
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning Spring Framework
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
+- ⚡ Fun fact: it's a nothing
 
 <!--
 **chereshnyabtw/chereshnyabtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
